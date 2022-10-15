@@ -1,0 +1,6 @@
+- Javascript berjalan di browser
+- Javascript yang berjalan di server itu namanya NodeJS
+- NodeJS dibuat pake V8 Enggine buatan chrome
+- Java & javascript itu berbeda
+- Javascript jadi bahasa pemrograman yang populer karena bisa untuk Fullstack (Frontend & Backend)
+- Javascript digunakan untuk membuat web aplikasi menjadi lebih interaktif
